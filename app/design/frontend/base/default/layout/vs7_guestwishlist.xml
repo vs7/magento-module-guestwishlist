@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<layout>
+    <default>
+        <reference name="top.links">
+            <block type="vs7_guestwishlist/link" name="guestwishlist_link">
+                <action method="addGuestWishlistLink"></action>
+            </block>
+        </reference>
+    </default>
+</layout>
